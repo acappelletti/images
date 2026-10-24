@@ -6,9 +6,10 @@ dimensione mostrata; si generano dagli SVG di `../svg/` con `tools/loghi.py` del
 
 | File | Mostrato (px) | Dove |
 |---|---|---|
-| `header_scritta.png` | 282 × 79 | Testata, a sinistra: scritta FlyCheck e payoff (font HP Simplified Hans) |
+| `header_scritta.png` | 282 × 75 | Testata, a sinistra: scritta FlyCheck e payoff (font HP Simplified Hans) |
 | `header_mascotte_alto.png` | 150 × 120 | Testata, a destra: parte alta della mascotte |
 | `header_mascotte_basso.png` | 150 × 28 | Fascia scura del titolo, a destra: parte bassa della mascotte |
 | `footer_logo.png` | 100 × 39 | Piè di pagina, centrato sopra l'indirizzo |
+| `footer_logo_blu.png` | 100 × 39 | Piè di pagina su fondo blu (#1B2A4A): scritta e traccia bianche, pale dell'elica al 20% e 50% del fondo (in prova) |
 
 I nomi dei file sono fissi: le procedure li cercano in questa cartella.
